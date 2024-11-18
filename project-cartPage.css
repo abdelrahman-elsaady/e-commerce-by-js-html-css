@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+.cartclass{
+    display: none;
+    opacity: 0 
+}
+
+.visible {
+    display: block;
+    opacity: 1;
+}
+
+h2 {
+    font-family: "Bodoni Moda", serif;
+  font-size: 300%;
+  font-weight: 200%;
+  /* font-style: normal; */
+  margin-bottom: 10%;
+
+  
+}
+/* #container ::-webkit-scrollbar{
+   display: one;
+} */
+
+/* #third{
+    transform: translateY(100em);
+
+    /* position: fixed; */
+    /* top:100%; */
+/* } */ 
